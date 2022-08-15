@@ -1,0 +1,15 @@
+EGSDK-1.3BETA
+API接口
+所有接口均需要引用PC_EGSDK此PlayerController蓝图类
+1）显示外部登录UI(EG)
+作用：Create登录用UI并返回此UI
+2）LoginAPI
+登录用，不返回值，需传入账号ID，密码，调用此API的UI
+3）RegistarAPI
+注册用
+4）ChangePassword
+修改密码
+5）Change
+修改游戏参数
+6）getmail
+获取系统邮件
